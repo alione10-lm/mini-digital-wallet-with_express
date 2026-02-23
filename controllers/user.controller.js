@@ -61,7 +61,7 @@ export const deleteUser = (req, res) => {
     }
 
     data.users.splice(userIndex, 1);
-    data.wallets.filter((w) => w.user_id !== userId);
+    data.wallets = data.wallets.filter((w) => w.user_id !== userId);
 
     saveData(data);
 

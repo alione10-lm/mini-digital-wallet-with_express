@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "id": "493e446f-c0a7-46e2-b61e-56fd6e2eb268",
-      "name": "oussama",
-      "email": "alione@gmail.com",
-      "phone": ""
-    },
-    {
       "id": "d6e78507-cd22-4432-aabf-e58d3f680487",
       "name": "name",
       "email": "test@gmail.com",
@@ -19,6 +13,127 @@
       "phone": ""
     }
   ],
-  "wallets": [],
+  "wallets": [
+    {
+      "id": "a1b2c3d4-e5f6-4a5b-8c9d-0123456789ab",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Main Wallet",
+      "sold": 0
+    },
+    {
+      "id": "b2c3d4e5-f6a7-4b6c-9d0e-123456789abc",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Savings Wallet",
+      "sold": 150
+    },
+    {
+      "id": "c3d4e5f6-a7b8-4c7d-0e1f-23456789abcd",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Crypto Fund",
+      "sold": 0
+    },
+    {
+      "id": "d4e5f6a7-b8c9-4d8e-1f2a-3456789abcde",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Business Account",
+      "sold": 500
+    },
+    {
+      "id": "e5f6a7b8-c9d0-4e9f-2a3b-456789abcdef",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Emergency Fund",
+      "sold": 10
+    },
+    {
+      "id": "f6a7b8c9-d0e1-4fa0-3b4c-56789abcdef0",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Travel Wallet",
+      "sold": 0
+    },
+    {
+      "id": "1a2b3c4d-5e6f-47a8-b9c0-6789abcdef01",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Shopping",
+      "sold": 25
+    },
+    {
+      "id": "2b3c4d5e-6f7a-48b9-c0d1-789abcdef012",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Daily Expenses",
+      "sold": 0
+    },
+    {
+      "id": "3c4d5e6f-7a8b-49c0-d1e2-89abcdef0123",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Investment",
+      "sold": 1000
+    },
+    {
+      "id": "4d5e6f7a-8b9c-4a0d-1e2f-9abcdef01234",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Gift Card",
+      "sold": 0
+    },
+    {
+      "id": "5e6f7a8b-9c0d-4b1e-2f3a-abcdef012345",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Online Services",
+      "sold": 45
+    },
+    {
+      "id": "6f7a8b9c-0d1e-4c2f-3a4b-bcdef0123456",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Education",
+      "sold": 0
+    },
+    {
+      "id": "7a8b9c0d-1e2f-4d3a-4b5c-cdef01234567",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Side Project",
+      "sold": 300
+    },
+    {
+      "id": "8b9c0d1e-2f3a-4e4b-5c6d-def012345678",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Freelance",
+      "sold": 0
+    },
+    {
+      "id": "9c0d1e2f-3a4b-4f5c-6d7e-ef0123456789",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Household",
+      "sold": 120
+    },
+    {
+      "id": "0d1e2f3a-4b5c-406d-7e8f-f0123456789a",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Rent",
+      "sold": 0
+    },
+    {
+      "id": "e1f2a3b4-c5d6-417e-8f9a-0123456789ab",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Entertainment",
+      "sold": 60
+    },
+    {
+      "id": "f2a3b4c5-d6e7-428f-9a0b-123456789abc",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Gadgets Fund",
+      "sold": 0
+    },
+    {
+      "id": "a3b4c5d6-e7f8-439a-0b1c-23456789abcd",
+      "user_id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "Health",
+      "sold": 200
+    },
+    {
+      "id": "b4c5d6e7-f8a9-440b-1c2d-3456789abcde",
+      "user_id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "Reserve Wallet",
+      "sold": 0
+    }
+  ],
   "transactions": []
 }

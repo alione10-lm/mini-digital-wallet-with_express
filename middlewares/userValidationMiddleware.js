@@ -1,4 +1,3 @@
-import { body, validationResult } from "express-validator";
 import { getData } from "../utils/useData.js";
 
 export const validateUser = (req, res, next) => {
