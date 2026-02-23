@@ -1,5 +1,18 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "493e446f-c0a7-46e2-b61e-56fd6e2eb268",
+      "name": "oussama",
+      "email": "alione@gmail.com",
+      "phone": ""
+    },
+    {
+      "id": "d6e78507-cd22-4432-aabf-e58d3f680487",
+      "name": "name",
+      "email": "test@gmail.com",
+      "phone": ""
+    }
+  ],
   "wallets": [],
   "transactions": []
 }
