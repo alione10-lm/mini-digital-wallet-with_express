@@ -28,9 +28,6 @@ export const getUserById = (req, res) => {
 export const createUser = (req, res) => {
   try {
     const { name, email, phone } = req.body;
-    if (!name || !email) {
-      return res.status(400).json({ message: "Name and email are required" });
-    }
 
     const data = getData();
     const newUser = {

@@ -11,6 +11,12 @@
       "name": "name",
       "email": "test@gmail.com",
       "phone": ""
+    },
+    {
+      "id": "b1e9502f-5d99-4371-8d63-9ebb50971be9",
+      "name": "test",
+      "email": "alioune@gmail.com",
+      "phone": ""
     }
   ],
   "wallets": [],
